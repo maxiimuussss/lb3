@@ -3,7 +3,7 @@ def calculate_expression(n):
     nnn = int(str(n) + str(n) + str(n))
     result = n + nn + nnn
     return result
-
+print('--------------------------------------------------------')
 # Зчитуємо вхідні дані
 n1 = int(input("Введіть ціле число: "))
 n2 = int(input("Введіть інше ціле число: "))
